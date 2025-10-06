@@ -1,0 +1,25 @@
+{
+  "id": "d007f5d7-764b-43b5-9a9a-63ccfe303b7e",
+  "name": "Stock Operations Archiving",
+  "publisher": "KHOAM Hubert Bartkowiak",
+  "version": "20.0.0.0",
+  "brief": "Stock Operations Archiving",
+  "description": "Test app for archiving stock operations",
+  "privacyStatement": "http://www.contoso.com",
+  "EULA": "http://www.contoso.com",
+  "help": "http://www.contoso.com",
+  "url": "http://www.contoso.com",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50010
+    }
+  ],
+  "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true},
+  "runtime": "16.0"
+}
