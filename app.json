@@ -2,7 +2,7 @@
   "id": "d007f5d7-764b-43b5-9a9a-63ccfe303b7e",
   "name": "Stock Operations Archiving",
   "publisher": "KHOAM Hubert Bartkowiak",
-  "version": "20.0.0.0",
+  "version": "0.1.0.0",
   "brief": "Stock Operations Archiving",
   "description": "Test app for archiving stock operations",
   "privacyStatement": "http://www.contoso.com",
@@ -22,4 +22,5 @@
   ],
   "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true},
   "runtime": "16.0"
+
 }
