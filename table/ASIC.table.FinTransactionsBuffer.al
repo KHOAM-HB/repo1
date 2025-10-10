@@ -1,7 +1,7 @@
 table 50001 "Fin. Transactions Buffer"
 {
     DataClassification = CustomerContent;
-    Caption = 'ASIC Fin. Transactions Buffer';
+    Caption = 'ASIC Fin. Trans. Buffer';
     LookupPageId = "ASIC Fin. Trans. Buffer List";
 
     fields
@@ -137,5 +137,6 @@ table 50001 "Fin. Transactions Buffer"
         else
             "Create Posting" := false;
     end;
+
 
 }
